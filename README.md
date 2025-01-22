@@ -1,5 +1,5 @@
 # iPod-Classic
-## View this app at: https://RitishKhanna.github.io/iPod-Classic/
+## View this app at: https://github.com/Saloni1318/I-POD
 
 ## Basic Features.
 
